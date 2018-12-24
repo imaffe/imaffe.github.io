@@ -40,6 +40,7 @@ I got  stuck in socket programming these days, and I found that I know nothing a
   Second ,  Some unexpected gain : A connection is specified by  ( or has a primary key of ) { SRC-IP, SRC-PORT, DEST-IP, DEST-PORT, Protocol}, so basically we have source port and destination port. For example, a web browser request for a usually high numbered port from OS  like (32313) and connect to server port 80. This is a unique connection compared with other sockets with different source IP address or same IP address but different source port number. For server, once the socket is different, it can distinguish which packet belongs to which connection even though they all come from port 80.  Bonus question is , cam two different processes listen to same port like port 80 if all using TCP? Answer is not because a single client send request to the port but don't know which process should take this request. But once we allow use of different protocols (which should be so), two process can listen to the same port. [Stackoverflow Answer](https://stackoverflow.com/questions/3329641/how-do-multiple-clients-connect-simultaneously-to-one-port-say-80-on-a-server), [Another example of source port](https://stackoverflow.com/questions/2957757/how-can-an-application-use-port-80-http-without-conflicting-with-browsers)
 
 - **what is welcome socket and connection socket in socket programming ?**
+
 - **Not yet covered, maybe tomorrow !** 
 
 - **what is carriage return and line feed ? CR and LF ?**
@@ -61,3 +62,11 @@ I got  stuck in socket programming these days, and I found that I know nothing a
 - **Can I use telnet to communicate with the SFU mail server?**
 
 - **How do I explain Apache to a guy know nothing about computer networking ?** 
+
+  > Last day was Upgames working together day,  and after that we watched Aquaman, so I did read some of the material but no counted in the 10 day. I'll go right back on the track since today.
+
+### Day 2 : DNS & Transport Layer
+
+
+
+ 
