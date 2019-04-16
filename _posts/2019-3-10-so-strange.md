@@ -7,7 +7,7 @@ author:     "affe"
 header-style : text
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - 睡前的话
+    - 万有引力
 ---
 
 ## 她的名字不叫小薇
