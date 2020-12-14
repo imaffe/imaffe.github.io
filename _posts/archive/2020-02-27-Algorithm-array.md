@@ -2,7 +2,7 @@
 layout:     post
 title:     Algorithm-Array 1
 subtitle:   ""
-date:       2020-02-27824:00:00
+date:       2020-02-27 24:00:00
 author:     "affe"
 header-style : text
 header-img: "img/post-bg-2015.jpg"
